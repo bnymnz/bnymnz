@@ -1,10 +1,10 @@
-### Hi there, I'm Bünyamin! 👋
+### Hi there, I'm Bünyamin
 
-I'm a **Computer Engineering Student** at Düzce University and a Cyber Security enthusiast focusing on **Blue Team** operations.
+I am a **Computer Engineering** student at Düzce University and a **Cyber security** enthusiast interested in OSINT operations.
 
 - I’m currently learning **Ethical Hacking**, **Penetration Testing**, and **Network Security**.
-- My main tools: **Python**, **C/C++**, **Linux**.
-- Goal: Become a global **Security Engineer**.
+- My main tools: **Kali Linux**, **Python**, **C/C++**.
+- Goal: Become a global **Cyber Intelligence Engineer**.
 
 ---
 ### Languages and Tools
