@@ -3,7 +3,7 @@
 I am a **Computer Engineering** student at Düzce University and a **Cyber security** enthusiast interested in OSINT operations.
 
 - I’m currently learning **Ethical Hacking**, **Penetration Testing**, and **Network Security**.
-- My main tools: **Kali Linux**, **Python**, **C/C++**.
+- My main tools: **Linux**, **Python**, **C/C++**.
 - Goal: Become a global **Cyber Intelligence Engineer**.
 
 ---
