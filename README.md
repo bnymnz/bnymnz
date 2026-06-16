@@ -1,10 +1,5 @@
-### Hi there, I'm Bünyamin
-
-I am a **Computer Engineering** student at Düzce University and a **Cyber security** enthusiast interested in OSINT operations.
-
-- I’m currently learning **Ethical Hacking**, **Penetration Testing**, and **Network Security**.
-- My main tools: **Linux**, **Python**, **C/C++**.
-- Goal: Become a global **Cyber Intelligence Engineer**.
+Hi there, I'm Bünyamin
+I am a Computer Engineering student at Düzce University, deeply interested in Data Engineering, Artificial Intelligence, and OSINT operations.
 
 ---
 ### Languages and Tools
